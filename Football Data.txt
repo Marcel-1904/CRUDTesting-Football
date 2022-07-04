@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Messi",
+        "age": 101,
+        "clubs": [ { "club": "Barcelona", "matches": 223}, { "club": "PSG", "matches": 33 } ],
+	"position": "RW",
+	"startingDate": "24 June 2005",
+	"salary": 120000000
+    },
+    {
+        "name": "Ronaldinho",
+        "age": 22,
+        "clubs": [ { "club": "Barcelona", "matches": 122}, { "club": "Milan", "matches": 98 } ],
+	"position": "ST",
+	"startingDate": "4 August 2001",
+	"salary": 91000000
+    },
+    {
+        "name": "Cristiano Ronaldo",
+        "age": 34,
+        "clubs": [ { "club": "Manchester United", "matches": 98}, { "club": "Real Mardid", "matches": 158 }, {"club": "Juventus", "matches": 56} ],
+	"position": "LW",
+	"startingDate": "12 August 2003",
+	"salary": 125000000
+    },
+    {
+        "name": "Paul Pogba",
+        "age": 27,
+        "clubs": [ { "club": "Juventus", "matches": 101}, { "club": "Manchester United", "matches": 97 } ],
+	"position": "CM",
+	"startingDate": "7 October 2009",
+	"salary": 15080000
+    },
+    {
+        "name": "Neymar",
+        "age": 28,
+        "clubs": [ { "club": "Barcelona", "matches": 105}, { "club": "PSG", "matches": 78 } ],
+	"position": "LW",
+	"startingDate": "24 May 2013",
+	"salary": 40800000
+    }  
+]
